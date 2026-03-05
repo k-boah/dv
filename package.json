@@ -1,0 +1,23 @@
+{
+  "name": "dv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "noode index.js",
+    "test": "node test.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-boah/dv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/k-boah/dv/issues"
+  },
+  "homepage": "https://github.com/k-boah/dv#readme"
+}
